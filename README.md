@@ -1,15 +1,18 @@
 # JericoAndrade
 
+
 <div align="center">
 
-  <h1>👋 ¡Hola, soy Jerico Andrade!</h1>
+# 👋 ¡Hola, soy Jerico Andrade!
 
-  <div style="background-color: #0d1117; padding: 25px; border-radius: 15px; border: 1px solid #30363d;">
+### 💻 Conozco el lenguaje de programación JAVA ☕
 
+![Java](https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=openjdk&logoColor=white)
 
-  </div>
+🚀 Aprendiendo y creando nuevos proyectos.
 
 </div>
+
 
 ![Perro GIF](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
 
